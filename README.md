@@ -12,5 +12,15 @@ Languages: Python 3.4, Linux
 ## Downloading the cardiac-specific non-coding genome features
 The features used in the model can be downloaded from this [link](https://bridges.monash.edu/projects/CaraVaN_datasets/118794).
 
+## Getting the Source Code
+
+To get the source code, please click the "fork" button in the upper-right and then add this repo as an upstream source:
+
+````
+$ git clone <your_fork_of_the_repo> ppds
+$ cd ppds
+$ REPO=https://github.com/Ramialison-Lab/CaraVaN.git
+$ git remote add upstream $REPO
+
 
 
