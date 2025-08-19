@@ -1,0 +1,9 @@
+READ THE NCER FILE
+SETTING COLUMN NAMES
+(404030, 7)
+  chrom    POS  POS_INCR chrom_ref  POS_REF  POS_INCR_REF   scores
+0  chr1   9953      9954         .       -1            -1        .
+1  chr1  10936     10937      chr1    10930         10940  40.7301
+2  chr1  11222     11223      chr1    11220         11230  28.2771
+3  chr1  11280     11281      chr1    11280         11290  14.6774
+4  chr1  11339     11340      chr1    11330         11340  63.2249

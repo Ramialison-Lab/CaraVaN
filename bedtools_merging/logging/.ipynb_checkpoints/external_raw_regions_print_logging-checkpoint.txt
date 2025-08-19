@@ -1,0 +1,3 @@
+(1134, 3)
+ENCODE
+['heart_left_ventricle_tissue_female_adult_53_years.promoters.bed', 'heart_left_ventricle_tissue_male_adult_34_years.promoters.bed', 'heart_left_ventricle_tissue_male_child_3_years.promoters.bed', 'heart_right_ventricle_tissue_female_adult_46_years.promoters.bed', 'heart_right_ventricle_tissue_male_adult_34_years.promoters.bed', 'heart_right_ventricle_tissue_male_adult_40_years.promoters.bed', 'heart_right_ventricle_tissue_male_child_3_years.promoters.bed']

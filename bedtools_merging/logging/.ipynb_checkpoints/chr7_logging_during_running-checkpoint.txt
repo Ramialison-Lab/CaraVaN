@@ -1,0 +1,998 @@
+Start merging now 
+heart_left_ventricle_tissue_female_adult_53_years.promoterschr7	10002	10003	0
+0One missing file: heart_left_ventricle_tissue_male_adult_34_years.promoters.bed
+One missing file: heart_left_ventricle_tissue_male_child_3_years.promoters.bed
+heart tissue female embryo 103 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15heart_right_ventricle_tissue_female_adult_46_years.promoterschr7	10002	10003	0	0
+1One missing file: heart_right_ventricle_tissue_male_adult_34_years.promoters.bed
+heart tissue female embryo 105 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16heart_right_ventricle_tissue_male_adult_40_years.promoterschr7	10002	10003	0	0	0
+2One missing file: heart_right_ventricle_tissue_male_child_3_years.promoters.bed
+heart tissue female embryo 110 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17heart tissue female embryo 116 days and female embryo 98 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18heart_left_ventricle_tissue_female_adult_46_years.enhancerschr7	10002	10003	0	0	0	0
+3One missing file: heart_left_ventricle_tissue_female_adult_51_years.enhancers.bed
+One missing file: heart_left_ventricle_tissue_male_adult_34_years.enhancers.bed
+heart tissue female embryo 117 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19heart_left_ventricle_tissue_male_adult_40_years.enhancerschr7	10002	10003	0	0	0	0	0
+4One missing file: heart_left_ventricle_tissue_male_child_3_years.enhancers.bed
+heart tissue female embryo 147 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20heart_right_ventricle_tissue_female_adult_46_years.enhancerschr7	10002	10003	0	0	0	0	0	0
+5One missing file: heart_right_ventricle_tissue_male_adult_34_years.enhancers.bed
+heart tissue female embryo 91 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21heart_right_ventricle_tissue_male_adult_40_years.enhancerschr7	10002	10003	0	0	0	0	0	0	0
+6One missing file: heart_right_ventricle_tissue_male_child_3_years.enhancers.bed
+heart tissue male embryo 105 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22cardiac fibroblast female embryo 94 days and female embryo 98 dayschr7	10002	10003	0	0	0	0	0	0	0	0
+7heart left ventricle tissue female embryo 101 days and female embryo 103 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0
+8heart tissue male embryo 110 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23heart left ventricle tissue female embryo 136 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0
+9heart tissue male embryo 120 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24heart right ventricle tissue female embryo 101 days and female embryo 103 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0
+10heart tissue male embryo 72 days and male embryo 76 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25heart tissue male embryo 91 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26heart tissue embryo 101 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0
+11heart tissue male embryo 96 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27heart tissue embryo 59 days and female embryo 76 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0
+12left cardiac atrium tissue female embryo 101 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28heart tissue embryo 80 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13heart_left_ventricle_tissue_female_adult_46_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29heart tissue embryo 96 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14heart tissue female embryo 103 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15heart_left_ventricle_tissue_female_adult_51_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+30heart tissue female embryo 105 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16heart_left_ventricle_tissue_female_adult_53_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31heart tissue female embryo 110 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+17heart_left_ventricle_tissue_female_adult_59_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32heart_left_ventricle_tissue_male_adult_40_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+33heart tissue female embryo 116 days and female embryo 98 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18C57BL-6_heart_tissue_embryo_10.5_days clean.promoterschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+34C57BL-6_heart_tissue_male_adult_8_weeks clean.promoterschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+35heart tissue female embryo 117 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19C57BL-6_heart_tissue_postnatal_0_days clean.promoterschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+36heart tissue female embryo 147 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20C57BL-6_heart_tissue_embryo_10.5_days clean.enhancerschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+37C57BL-6_heart_tissue_male_adult_8_weeks clean.enhancerschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+38heart tissue female embryo 91 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21heart tissue male embryo 105 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22C57BL-6_heart_tissue_postnatal_0_days clean.enhancerschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+39heart tissue male embryo 110 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23C57BL-6_heart_tissue_male_adult_8_weeks clean.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+40heart tissue male embryo 120 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24C57BL-6_heart_tissue_postnatal_0_days clean.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+41ASCL1_pwmscan_hg38_29347_22951
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+42
+heart tissue male embryo 72 days and male embryo 76 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25CREB1_pwmscan_hg38_7806_15552
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+43
+heart tissue male embryo 91 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26EOMES_pwmscan_hg38_45327_5339
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+44
+heart tissue male embryo 96 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27FOXC1_pwmscan_hg38_14051_14776
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+45
+left cardiac atrium tissue female embryo 101 dayschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28heart_left_ventricle_tissue_female_adult_46_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29FOXC2_pwmscan_hg38_30036_45203
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+46
+heart_left_ventricle_tissue_female_adult_51_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+30heart_left_ventricle_tissue_female_adult_53_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+31FOXF1_pwmscan_hg38_28598_34204
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+47
+heart_left_ventricle_tissue_female_adult_59_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32FOXH1_pwmscan_hg38_43315_3114
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+48
+heart_left_ventricle_tissue_male_adult_40_years.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+33C57BL-6_heart_tissue_embryo_10.5_days clean.promoterschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+34FOXL1_pwmscan_hg38_43316_13581
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+49
+C57BL-6_heart_tissue_male_adult_8_weeks clean.promoterschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+35GATA3_pwmscan_hg38_11738_12391
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+50
+C57BL-6_heart_tissue_postnatal_0_days clean.promoterschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+36GATA4_pwmscan_hg38_28596_35342
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+51
+C57BL-6_heart_tissue_embryo_10.5_days clean.enhancerschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+37GATA5_pwmscan_hg38_9066_18689
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+52
+C57BL-6_heart_tissue_male_adult_8_weeks clean.enhancerschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+38GATA6_pwmscan_hg38_20055_21663
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+53
+C57BL-6_heart_tissue_postnatal_0_days clean.enhancerschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+39GLI1_pwmscan_hg38_33818_38538
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+54
+C57BL-6_heart_tissue_male_adult_8_weeks clean.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+40GLI2_pwmscan_hg38_7492_29088
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+55
+GLI3_pwmscan_hg38_35563_38491
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+56
+C57BL-6_heart_tissue_postnatal_0_days clean.CTCF-bound cCREschr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+41GRHL2_pwmscan_hg38_29347_19788
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+57
+HAND1_pwmscan_hg38_38445_41025
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+58
+ASCL1_pwmscan_hg38_29347_22951
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+42
+CREB1_pwmscan_hg38_7806_15552
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+43
+HES1_pwmscan_hg38_35815_41265
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+59
+EOMES_pwmscan_hg38_45327_5339
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+44
+HEY1_pwmscan_hg38_28887_46496
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+60
+HEY2_pwmscan_hg38_43317_44258
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+61
+FOXC1_pwmscan_hg38_14051_14776
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+45
+HIF1A_pwmscan_hg38_15529_13200
+chr7	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+62
+ISL1_pwmscan_hg38_35815_41742
+
+63
+JUN_pwmscan_hg38_38048_1878
+
+64
+FOXC2_pwmscan_hg38_30036_45203
+
+46
+LBX1_pwmscan_hg38_27664_45938
+
+65
+FOXF1_pwmscan_hg38_28598_34204
+
+47
+MEF2A_pwmscan_hg38_7806_11341
+
+66
+FOXH1_pwmscan_hg38_43315_3114
+
+48
+MEF2C_pwmscan_hg38_43317_529
+
+67
+MEF2D_pwmscan_hg38_11121_17332
+
+68
+FOXL1_pwmscan_hg38_43316_13581
+
+49
+MEIS1_pwmscan_hg38_27664_48032
+
+69
+GATA3_pwmscan_hg38_11738_12391
+
+50
+GATA4_pwmscan_hg38_28596_35342
+
+51
+MESP1_pwmscan_hg38_38445_42157
+
+70
+GATA5_pwmscan_hg38_9066_18689
+
+52
+MIXL1_pwmscan_hg38_27664_42167
+
+71
+GATA6_pwmscan_hg38_20055_21663
+
+53
+MSX1_pwmscan_hg38_37655_41051
+
+72
+GLI1_pwmscan_hg38_33818_38538
+
+54
+NFAC4_pwmscan_hg38_33560_42902
+
+73
+GLI2_pwmscan_hg38_7492_29088
+
+55
+NFATC1_pwmscan_hg38_31217_44715
+
+74
+GLI3_pwmscan_hg38_35563_38491
+
+56
+GRHL2_pwmscan_hg38_29347_19788
+
+57
+NKX25_pwmscan_hg38_39533_43866
+
+75
+HAND1_pwmscan_hg38_38445_41025
+
+58
+HES1_pwmscan_hg38_35815_41265
+
+59
+HEY1_pwmscan_hg38_28887_46496
+
+60
+NKX3_1_pwmscan_hg38_43163_4491
+
+76
+HEY2_pwmscan_hg38_43317_44258
+
+61
+NOTO_pwmscan_hg38_28887_33633
+
+77
+OVOL2_pwmscan_hg38_39701_44177
+
+78
+HIF1A_pwmscan_hg38_15529_13200
+
+62
+PAX8_pwmscan_hg38_44374_46322
+
+79
+ISL1_pwmscan_hg38_35815_41742
+
+63
+JUN_pwmscan_hg38_38048_1878
+
+64
+LBX1_pwmscan_hg38_27664_45938
+
+65
+MEF2A_pwmscan_hg38_7806_11341
+
+66
+MEF2C_pwmscan_hg38_43317_529
+
+67
+PITX2_pwmscan_hg38_41734_46461
+
+80
+MEF2D_pwmscan_hg38_11121_17332
+
+68
+POU4F1_pwmscan_hg38_11435_12160
+
+81
+POU4F1_pwmscan_hg38_47659_38526
+
+82
+PPARD_pwmscan_hg38_35563_48082
+
+83
+MEIS1_pwmscan_hg38_27664_48032
+
+69
+PPARG_pwmscan_hg38_27664_10529
+
+84
+PRD14_pwmscan_hg38_48118_48439
+
+85
+PRDM1_pwmscan_hg38_38048_46851
+
+86
+PROX1_pwmscan_hg38_33324_13670
+
+87
+RARA_pwmscan_hg38_47659_33241
+
+88
+MESP1_pwmscan_hg38_38445_42157
+
+70
+MIXL1_pwmscan_hg38_27664_42167
+
+71
+MSX1_pwmscan_hg38_37655_41051
+
+72
+NFAC4_pwmscan_hg38_33560_42902
+
+73
+NFATC1_pwmscan_hg38_31217_44715
+
+74
+RARB_pwmscan_hg38_48313_3308
+
+89
+NKX25_pwmscan_hg38_39533_43866
+
+75
+RBPJ_pwmscan_hg38_10402_12301
+
+90
+REST_pwmscan_hg38_11121_3574
+
+91
+SHOX2_pwmscan_hg38_44375_4511
+
+92
+SIX1_pwmscan_hg38_42746_19293
+
+93
+NKX3_1_pwmscan_hg38_43163_4491
+
+76
+NOTO_pwmscan_hg38_28887_33633
+
+77
+OVOL2_pwmscan_hg38_39701_44177
+
+78
+SMAD1_pwmscan_hg38_44445_5787
+
+94
+PAX8_pwmscan_hg38_44374_46322
+
+79
+SMAD3_pwmscan_hg38_47659_6575
+
+95
+SMAD4_pwmscan_hg38_44288_6824
+
+96
+SNAI1_pwmscan_hg38_46684_9294
+
+97
+SNAI2_pwmscan_hg38_27665_28556
+
+98
+SOX11_pwmscan_hg38_43996_10436
+
+99
+SOX17_pwmscan_hg38_9606_11798
+
+100
+SOX18_pwmscan_hg38_9606_12295
+
+101
+SOX4_pwmscan_hg38_20348_27236
+
+102
+SOX9_pwmscan_hg38_11121_9563
+
+103
+PITX2_pwmscan_hg38_41734_46461
+
+80
+SRF_pwmscan_hg38_27664_8726
+
+104
+POU4F1_pwmscan_hg38_11435_12160
+
+81
+TBX1_pwmscan_hg38_38292_542
+
+105
+TBX20_pwmscan_hg38_30239_36307
+
+106
+POU4F1_pwmscan_hg38_47659_38526
+
+82
+TBX2_pwmscan_hg38_30239_37929
+
+107
+PPARD_pwmscan_hg38_35563_48082
+
+83
+PPARG_pwmscan_hg38_27664_10529
+
+84
+PRD14_pwmscan_hg38_48118_48439
+
+85
+TBX3_pwmscan_hg38_48118_14186
+
+108
+PRDM1_pwmscan_hg38_38048_46851
+
+86
+PROX1_pwmscan_hg38_33324_13670
+
+87
+TBX5_pwmscan_hg38_47636_48695
+
+109
+RARA_pwmscan_hg38_47659_33241
+
+88
+TEAD2_pwmscan_hg38_6370_18229
+
+110
+TP53_pwmscan_hg38_20055_27716
+
+111
+TP53_pwmscan_hg38_4482_5454
+
+112
+TWIST1_pwmscan_hg38_38398_47795
+
+113
+RARB_pwmscan_hg38_48313_3308
+
+89
+RBPJ_pwmscan_hg38_10402_12301
+
+90
+REST_pwmscan_hg38_11121_3574
+
+91
+SHOX2_pwmscan_hg38_44375_4511
+
+92
+SIX1_pwmscan_hg38_42746_19293
+
+93
+SMAD1_pwmscan_hg38_44445_5787
+
+94
+SMAD3_pwmscan_hg38_47659_6575
+
+95
+WT1_pwmscan_hg38_43996_14775
+
+114
+YY1_pwmscan_hg38_43315_7423
+
+115
+ZBT14_pwmscan_hg38_43996_16382
+
+116
+SMAD4_pwmscan_hg38_44288_6824
+
+96
+ZIC3_pwmscan_hg38_33324_35656
+
+117
+vista_hg38
+
+118
+SNAI1_pwmscan_hg38_46684_9294
+
+97
+DFF012AGB
+
+119
+SNAI2_pwmscan_hg38_27665_28556
+
+98
+SOX11_pwmscan_hg38_43996_10436
+
+99
+DFF017NNG
+
+120
+SOX17_pwmscan_hg38_9606_11798
+
+100
+DFF029APW
+
+121
+SOX18_pwmscan_hg38_9606_12295
+
+101
+SOX4_pwmscan_hg38_20348_27236
+
+102
+DFF090AWG
+
+122
+SOX9_pwmscan_hg38_11121_9563
+
+103
+SRF_pwmscan_hg38_27664_8726
+
+104
+DFF165PSK
+
+123
+DFF201AVG
+
+124
+DFF208QZK
+
+125
+TBX1_pwmscan_hg38_38292_542
+
+105
+DFF233YXQ
+
+126
+DFF249RGM
+
+127
+DFF262NPA
+
+128
+TBX20_pwmscan_hg38_30239_36307
+
+106
+TBX2_pwmscan_hg38_30239_37929
+
+107
+DFF307JWU
+
+129
+TBX3_pwmscan_hg38_48118_14186
+
+108
+DFF307LLE
+
+130
+DFF316NIT
+
+131
+DFF367ZAV
+
+132
+TBX5_pwmscan_hg38_47636_48695
+
+109
+TEAD2_pwmscan_hg38_6370_18229
+
+110
+DFF371HWB
+
+133
+TP53_pwmscan_hg38_20055_27716
+
+111
+TP53_pwmscan_hg38_4482_5454
+
+112
+DFF444FXW
+
+134
+TWIST1_pwmscan_hg38_38398_47795
+
+113
+DFF491GMJ
+
+135
+DFF512TCX
+
+136
+DFF528FIC
+
+137
+DFF552AGR
+
+138
+DFF559UZT
+
+139
+DFF564GOU
+
+140
+DFF565QGM
+
+141
+DFF621YNV
+
+142
+WT1_pwmscan_hg38_43996_14775
+
+114
+YY1_pwmscan_hg38_43315_7423
+
+115
+ZBT14_pwmscan_hg38_43996_16382
+
+116
+ZIC3_pwmscan_hg38_33324_35656
+
+117
+vista_hg38
+
+118
+DFF653TBJ
+
+143
+DFF729PKJ
+
+144
+DFF012AGB
+
+119
+DFF803PYP
+
+145
+DFF017NNG
+
+120
+DFF842KEC
+
+146
+DFF029APW
+
+121
+DFF923IAT
+
+147
+DFF975AHB
+
+148
+DFF090AWG
+
+122
+ENCFF024FSS
+
+149
+ENCFF055YGM
+
+150
+DFF165PSK
+
+123
+ENCFF072LFQ
+
+151
+ENCFF124JSN
+
+152
+ENCFF174HPZ
+
+153
+ENCFF179JFB
+
+154
+DFF201AVG
+
+124
+ENCFF199VHV
+
+155
+DFF208QZK
+
+125
+DFF233YXQ
+
+126
+ENCFF237JBZ
+
+156
+ENCFF239PZJ
+
+157
+DFF249RGM
+
+127
+ENCFF251ADS
+
+158
+DFF262NPA
+
+128
+ENCFF257UAY
+
+159
+ENCFF258HEB
+
+160
+DFF307JWU
+
+129
+ENCFF291YRH
+
+161
+ENCFF303AKJ
+
+162
+DFF307LLE
+
+130
+ENCFF315UYG
+
+163
+DFF316NIT
+
+131
+DFF367ZAV
+
+132
+ENCFF372VNL
+
+164
+DFF371HWB
+
+133
+ENCFF525ZRG
+
+165
+DFF444FXW
+
+134
+ENCFF529QEX
+
+166
+DFF491GMJ
+
+135
+ENCFF556YGF
+
+167
+ENCFF560EBG
+
+168
+DFF512TCX
+
+136
+ENCFF567VUC
+
+169
+ENCFF643QLU
+
+170
+DFF528FIC
+
+137
+ENCFF718BTP
+
+171
+DFF552AGR
+
+138
+ENCFF720GJU
+
+172
+ENCFF731JBR
+
+173
+DFF559UZT
+
+139
+ENCFF783MYY
+
+174
+DFF564GOU
+
+140
+ENCFF792EIF
+
+175
+DFF565QGM
+
+141
+ENCFF811VNG
+
+176
+ENCFF820DKN
+
+177
+DFF621YNV
+
+142
+ENCFF830CEC
+
+178
+ENCFF890NRK
+
+179
+DFF653TBJ
+
+143
+ENCFF898WYV
+
+180
+DFF729PKJ
+
+144
+ENCFF901EKY
+
+181
+DFF803PYP
+
+145
+ENCFF953FJE
+
+182
+DFF842KEC
+
+146
+ENCFF968YWL
+
+183
+DFF923IAT
+
+147
+ENCFF984UBD
+
+184
+DFF975AHB
+
+148
+ENCFF988KSK
+
+185
+ENCFF991MKU
+
+186
+CM_Merged_DI_TADs
+
+187
+CP_Merged_DI_TADs
+
+188
+PCHiC_interaction_points_sorte_uniq_grch38
+
+189
+ENCFF024FSS
+
+149
+unlifted_enhancers
+
+190
+ENCFF055YGM
+
+150
+ENCFF072LFQ
+
+151
+ENCFF124JSN
+
+152
+ENCFF174HPZ
+
+153
+ENCFF179JFB
+
+154
+ENCFF199VHV
+
+155
+ENCFF237JBZ
+
+156
+ENCFF239PZJ
+
+157
+ENCFF251ADS
+
+158
+ENCFF257UAY
+
+159
+ENCFF258HEB
+
+160
+ENCFF291YRH
+
+161
+ENCFF303AKJ
+
+162
+ENCFF315UYG
+
+163
+ENCFF372VNL
+
+164
+ENCFF525ZRG
+
+165
+ENCFF529QEX
+
+166
+ENCFF556YGF
+
+167
+ENCFF560EBG
+
+168
+ENCFF567VUC
+
+169
+ENCFF643QLU
+
+170
+ENCFF718BTP
+
+171
+ENCFF720GJU
+
+172
+ENCFF731JBR
+
+173
+ENCFF783MYY
+
+174
+ENCFF792EIF
+
+175
+ENCFF811VNG
+
+176
+ENCFF820DKN
+
+177
+ENCFF830CEC
+
+178
+ENCFF890NRK
+
+179
+ENCFF898WYV
+
+180
+ENCFF901EKY
+
+181
+ENCFF953FJE
+
+182
+ENCFF968YWL
+
+183
+ENCFF984UBD
+
+184
+ENCFF988KSK
+
+185
+ENCFF991MKU
+
+186
+CM_Merged_DI_TADs
+
+187
+CP_Merged_DI_TADs
+
+188
+PCHiC_interaction_points_sorte_uniq_grch38
+
+189
+unlifted_enhancers
+
+190

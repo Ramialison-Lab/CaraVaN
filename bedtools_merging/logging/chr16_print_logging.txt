@@ -1,0 +1,1092 @@
+ 20088565  80354260 515548459 Validation merging test/chr16/output_even.txt
+ 20088565 100442825 555725589 Validation merging test/chr16/output_odd.txt
+ 20088565 120531390 595902719 Validation merging test/chr16/output_even.txt
+ 20088565 140619955 636079849 Validation merging test/chr16/output_odd.txt
+ 20088565 160708520 676256979 Validation merging test/chr16/output_even.txt
+ 20088565 180797085 716434109 Validation merging test/chr16/output_odd.txt
+ 20088565 200885650 756611239 Validation merging test/chr16/output_even.txt
+ 20088565 220974215 796788369 Validation merging test/chr16/output_odd.txt
+ 20088565 241062780 836965499 Validation merging test/chr16/output_even.txt
+ 20088565 261151345 877142629 Validation merging test/chr16/output_odd.txt
+ 20088565 281239910 917319759 Validation merging test/chr16/output_even.txt
+ 20088565 301328475 957496889 Validation merging test/chr16/output_odd.txt
+ 20088565 321417040 997674019 Validation merging test/chr16/output_even.txt
+  20088565  341505605 1037851149 Validation merging test/chr16/output_odd.txt
+  20088565  361594170 1078028279 Validation merging test/chr16/output_even.txt
+  20088565  381682735 1118205409 Validation merging test/chr16/output_odd.txt
+  20088565  401771300 1158382539 Validation merging test/chr16/output_even.txt
+  20088565  421859865 1198559669 Validation merging test/chr16/output_odd.txt
+  20088565  441948430 1238736799 Validation merging test/chr16/output_even.txt
+  20088565  462036995 1278913929 Validation merging test/chr16/output_odd.txt
+  20088565  482125560 1319091059 Validation merging test/chr16/output_even.txt
+  20088565  502214125 1359268189 Validation merging test/chr16/output_odd.txt
+  20088565  522302690 1399445319 Validation merging test/chr16/output_even.txt
+  20088565  542391255 1439622449 Validation merging test/chr16/output_odd.txt
+  20088565  562479820 1479799579 Validation merging test/chr16/output_even.txt
+  20088565  582568385 1519976709 Validation merging test/chr16/output_odd.txt
+  20088565  602656950 1560153839 Validation merging test/chr16/output_even.txt
+  20088565  622745515 1600330969 Validation merging test/chr16/output_odd.txt
+  20088565  642834080 1640508099 Validation merging test/chr16/output_even.txt
+  20088565  662922645 1680685229 Validation merging test/chr16/output_odd.txt
+  20088565  683011210 1720862359 Validation merging test/chr16/output_even.txt
+  20088565  703099775 1761039489 Validation merging test/chr16/output_odd.txt
+  20088565  723188340 1801216619 Validation merging test/chr16/output_even.txt
+  20088565  743276905 1841393749 Validation merging test/chr16/output_odd.txt
+  20088565  763365470 1881570879 Validation merging test/chr16/output_even.txt
+  20088565  783454035 1921748009 Validation merging test/chr16/output_odd.txt
+  20088565  803542600 1961925139 Validation merging test/chr16/output_even.txt
+  20088565  823631165 2002102269 Validation merging test/chr16/output_odd.txt
+  20088565  843719730 2042279399 Validation merging test/chr16/output_even.txt
+  20088565  863808295 2082456529 Validation merging test/chr16/output_odd.txt
+  20088565  883896860 2122633659 Validation merging test/chr16/output_even.txt
+  20088565  903985425 2162810789 Validation merging test/chr16/output_odd.txt
+  20088565  924073990 2202987919 Validation merging test/chr16/output_even.txt
+  20088565  944162555 2243165049 Validation merging test/chr16/output_odd.txt
+  20088565  964251120 2283342179 Validation merging test/chr16/output_even.txt
+  20088565  984339685 2323519309 Validation merging test/chr16/output_odd.txt
+  20088565 1004428250 2363696439 Validation merging test/chr16/output_even.txt
+  20088565 1024516815 2403873569 Validation merging test/chr16/output_odd.txt
+  20088565 1044605380 2444050699 Validation merging test/chr16/output_even.txt
+  20088565 1064693945 2484227829 Validation merging test/chr16/output_odd.txt
+  20088565 1084782510 2524404959 Validation merging test/chr16/output_even.txt
+  20088565 1104871075 2564582089 Validation merging test/chr16/output_odd.txt
+  20088565 1124959640 2604759219 Validation merging test/chr16/output_even.txt
+  20088565 1145048205 2644936349 Validation merging test/chr16/output_odd.txt
+  20088565 1165136770 2685113479 Validation merging test/chr16/output_even.txt
+  20088565 1185225335 2725290609 Validation merging test/chr16/output_odd.txt
+  20088565 1205313900 2765467739 Validation merging test/chr16/output_even.txt
+  20088565 1225402465 2805644869 Validation merging test/chr16/output_odd.txt
+  20088565 1245491030 2845821999 Validation merging test/chr16/output_even.txt
+  20088565 1265579595 2885999129 Validation merging test/chr16/output_odd.txt
+  20088565 1285668160 2926176259 Validation merging test/chr16/output_even.txt
+  20088565 1305756725 2966353389 Validation merging test/chr16/output_odd.txt
+  20088565 1325845290 3006530519 Validation merging test/chr16/output_even.txt
+  20088565 1345933855 3046707649 Validation merging test/chr16/output_odd.txt
+  20088565 1366022420 3086884779 Validation merging test/chr16/output_even.txt
+  20088565 1386110985 3127061909 Validation merging test/chr16/output_odd.txt
+  20088565 1406199550 3167239039 Validation merging test/chr16/output_even.txt
+  20088565 1426288115 3207416169 Validation merging test/chr16/output_odd.txt
+  20088565 1446376680 3247593299 Validation merging test/chr16/output_even.txt
+  20088565 1466465245 3287770429 Validation merging test/chr16/output_odd.txt
+  20088565 1486553810 3327947559 Validation merging test/chr16/output_even.txt
+  20088565 1506642375 3368124689 Validation merging test/chr16/output_odd.txt
+  20088565 1526730940 3408301819 Validation merging test/chr16/output_even.txt
+  20088565 1546819505 3448478949 Validation merging test/chr16/output_odd.txt
+  20088565 1566908070 3488656079 Validation merging test/chr16/output_even.txt
+  20088565 1586996635 3528833209 Validation merging test/chr16/output_odd.txt
+  20088565 1607085200 3569010339 Validation merging test/chr16/output_even.txt
+  20088565 1627173765 3609187469 Validation merging test/chr16/output_odd.txt
+  20088565 1647262330 3649364599 Validation merging test/chr16/output_even.txt
+  20088565 1667350895 3689541729 Validation merging test/chr16/output_odd.txt
+  20088565 1687439460 3729718859 Validation merging test/chr16/output_even.txt
+  20088565 1707528025 3769895989 Validation merging test/chr16/output_odd.txt
+  20088565 1727616590 3810073119 Validation merging test/chr16/output_even.txt
+  20088565 1747705155 3850250249 Validation merging test/chr16/output_odd.txt
+  20088565 1767793720 3890427379 Validation merging test/chr16/output_even.txt
+  20088565 1787882285 3930604509 Validation merging test/chr16/output_odd.txt
+  20088565 1807970850 3970781639 Validation merging test/chr16/output_even.txt
+  20088565 1828059415 4010958769 Validation merging test/chr16/output_odd.txt
+  20088565 1848147980 4051135899 Validation merging test/chr16/output_even.txt
+  20088565 1868236545 4091313029 Validation merging test/chr16/output_odd.txt
+  20088565 1888325110 4131490159 Validation merging test/chr16/output_even.txt
+  20088565 1908413675 4171667289 Validation merging test/chr16/output_odd.txt
+  20088565 1928502240 4211844419 Validation merging test/chr16/output_even.txt
+  20088565 1948590805 4252021549 Validation merging test/chr16/output_odd.txt
+  20088565 1968679370 4292198679 Validation merging test/chr16/output_even.txt
+  20088565 1988767935 4332375809 Validation merging test/chr16/output_odd.txt
+  20088565 2008856500 4372552939 Validation merging test/chr16/output_even.txt
+  20088565 2028945065 4412730069 Validation merging test/chr16/output_odd.txt
+  20088565 2049033630 4452907199 Validation merging test/chr16/output_even.txt
+  20088565 2069122195 4493084329 Validation merging test/chr16/output_odd.txt
+  20088565 2089210760 4533261459 Validation merging test/chr16/output_even.txt
+  20088565 2109299325 4573438589 Validation merging test/chr16/output_odd.txt
+  20088565 2129387890 4613615719 Validation merging test/chr16/output_even.txt
+  20088565 2149476455 4653792849 Validation merging test/chr16/output_odd.txt
+  20088565 2169565020 4693969979 Validation merging test/chr16/output_even.txt
+  20088565 2189653585 4734147109 Validation merging test/chr16/output_odd.txt
+  20088565 2209742150 4774324239 Validation merging test/chr16/output_even.txt
+  20088565 2229830715 4814501369 Validation merging test/chr16/output_odd.txt
+  20088565 2249919280 4854678499 Validation merging test/chr16/output_even.txt
+  20088565 2270007845 4894855629 Validation merging test/chr16/output_odd.txt
+  20088565 2290096410 4935032759 Validation merging test/chr16/output_even.txt
+  20088565 2310184975 4975209889 Validation merging test/chr16/output_odd.txt
+  20088565 2330273540 5015387019 Validation merging test/chr16/output_even.txt
+  20088565 2350362105 5055564149 Validation merging test/chr16/output_odd.txt
+  20088565 2370450670 5095741279 Validation merging test/chr16/output_even.txt
+  20088565 2390539235 5135918409 Validation merging test/chr16/output_odd.txt
+  20088565 2410627800 5176095539 Validation merging test/chr16/output_even.txt
+  20088565 2430716365 5216272669 Validation merging test/chr16/output_odd.txt
+  20088565 2450804930 5256449799 Validation merging test/chr16/output_even.txt
+  20088565 2470893495 5296626929 Validation merging test/chr16/output_odd.txt
+  20088565 2490982060 5336804059 Validation merging test/chr16/output_even.txt
+  20088565 2511070625 5376981189 Validation merging test/chr16/output_odd.txt
+  20088565 2531159190 5417158319 Validation merging test/chr16/output_even.txt
+  20088565 2551247755 5457335449 Validation merging test/chr16/output_odd.txt
+  20088565 2571336320 5497512579 Validation merging test/chr16/output_even.txt
+  20088565 2591424885 5537689709 Validation merging test/chr16/output_odd.txt
+  20088565 2611513450 5577866839 Validation merging test/chr16/output_even.txt
+  20088565 2631602015 5618043969 Validation merging test/chr16/output_odd.txt
+  20088565 2651690580 5658221099 Validation merging test/chr16/output_even.txt
+  20088565 2671779145 5698398229 Validation merging test/chr16/output_odd.txt
+  20088565 2691867710 5738575359 Validation merging test/chr16/output_even.txt
+  20088565 2711956275 5778752489 Validation merging test/chr16/output_odd.txt
+  20088565 2732044840 5818929619 Validation merging test/chr16/output_even.txt
+  20088565 2752133405 5859106749 Validation merging test/chr16/output_odd.txt
+  20088565 2772221970 5899283879 Validation merging test/chr16/output_even.txt
+  20088565 2792310535 5939461009 Validation merging test/chr16/output_odd.txt
+  20088565 2812399100 5979638139 Validation merging test/chr16/output_even.txt
+  20088565 2832487665 6019815269 Validation merging test/chr16/output_odd.txt
+  20088565 2852576230 6059992399 Validation merging test/chr16/output_even.txt
+  20088565 2872664795 6100169529 Validation merging test/chr16/output_odd.txt
+  20088565 2892753360 6140346659 Validation merging test/chr16/output_even.txt
+  20088565 2912841925 6180523789 Validation merging test/chr16/output_odd.txt
+  20088565 2932930490 6220700919 Validation merging test/chr16/output_even.txt
+  20088565 2953019055 6260878049 Validation merging test/chr16/output_odd.txt
+  20088565 2973107620 6301055179 Validation merging test/chr16/output_even.txt
+  20088565 2993196185 6341232309 Validation merging test/chr16/output_odd.txt
+  20088565 3013284750 6381409439 Validation merging test/chr16/output_even.txt
+  20088565 3033373315 6421586569 Validation merging test/chr16/output_odd.txt
+  20088565 3053461880 6461763699 Validation merging test/chr16/output_even.txt
+  20088565 3073550445 6501940829 Validation merging test/chr16/output_odd.txt
+  20088565 3093639010 6542117959 Validation merging test/chr16/output_even.txt
+  20088565 3113727575 6582295089 Validation merging test/chr16/output_odd.txt
+  20088565 3133816140 6622473775 Validation merging test/chr16/output_even.txt
+  20088565 3153904705 6662650905 Validation merging test/chr16/output_odd.txt
+  20088565 3173993270 6702828035 Validation merging test/chr16/output_even.txt
+  20088565 3194081835 6743005165 Validation merging test/chr16/output_odd.txt
+  20088565 3214170400 6783186121 Validation merging test/chr16/output_even.txt
+  20088565 3234258965 6823363251 Validation merging test/chr16/output_odd.txt
+  20088565 3254347530 6863540381 Validation merging test/chr16/output_even.txt
+  20088565 3274436095 6903720742 Validation merging test/chr16/output_odd.txt
+  20088565 3294524660 6943897872 Validation merging test/chr16/output_even.txt
+  20088565 3314613225 6984075002 Validation merging test/chr16/output_odd.txt
+  20088565 3334701790 7024252132 Validation merging test/chr16/output_even.txt
+  20088565 3354790355 7064431011 Validation merging test/chr16/output_odd.txt
+  20088565 3374878920 7104608141 Validation merging test/chr16/output_even.txt
+  20088565 3394967485 7144785271 Validation merging test/chr16/output_odd.txt
+  20088565 3415056050 7184963418 Validation merging test/chr16/output_even.txt
+  20088565 3435144615 7225140548 Validation merging test/chr16/output_odd.txt
+  20088565 3455233180 7265317678 Validation merging test/chr16/output_even.txt
+  20088565 3475321745 7305494808 Validation merging test/chr16/output_odd.txt
+  20088565 3495410310 7345671938 Validation merging test/chr16/output_even.txt
+  20088565 3515498875 7385852113 Validation merging test/chr16/output_odd.txt
+  20088565 3535587440 7426029243 Validation merging test/chr16/output_even.txt
+  20088565 3555676005 7466206373 Validation merging test/chr16/output_odd.txt
+  20088565 3575764570 7506383503 Validation merging test/chr16/output_even.txt
+  20088565 3595853135 7546560633 Validation merging test/chr16/output_odd.txt
+  20088565 3615941700 7586737763 Validation merging test/chr16/output_even.txt
+  20088565 3636030265 7626914893 Validation merging test/chr16/output_odd.txt
+  20088565 3656118830 7667092023 Validation merging test/chr16/output_even.txt
+  20088565 3676207395 7707270702 Validation merging test/chr16/output_odd.txt
+  20088565 3696295960 7747447832 Validation merging test/chr16/output_even.txt
+  20088565 3716384525 7787624962 Validation merging test/chr16/output_odd.txt
+  20088565 3736473090 7827802092 Validation merging test/chr16/output_even.txt
+  20088565 3756561655 7867979222 Validation merging test/chr16/output_odd.txt
+  20088565 3776650220 7908156352 Validation merging test/chr16/output_even.txt
+  20088565 3796738785 7948333482 Validation merging test/chr16/output_odd.txt
+  20088565 3816827350 7988510612 Validation merging test/chr16/output_even.txt
+  20088565 3836915915 8028687742 Validation merging test/chr16/output_odd.txt
+  20088565 3857004480 8068864872 Validation merging test/chr16/output_even.txt
+  20088565 3877093045 8109042002 Validation merging test/chr16/output_odd.txt
+  20088565 3897181610 8149229671 Validation merging test/chr16/output_even.txt
+READING THE ORIGINAL FILE AND FILTERINING + INCREMENT
+chr16
+['57268986']
+[]
+ADDING NEW POSITIONS DONE
+STARTING TO SAVE TO VALIDATION FOLDER
+ENCODE
+['heart_left_ventricle_tissue_female_adult_53_years.promoters.bed', 'heart_left_ventricle_tissue_male_adult_34_years.promoters.bed', 'heart_left_ventricle_tissue_male_child_3_years.promoters.bed', 'heart_right_ventricle_tissue_female_adult_46_years.promoters.bed', 'heart_right_ventricle_tissue_male_adult_34_years.promoters.bed', 'heart_right_ventricle_tissue_male_adult_40_years.promoters.bed', 'heart_right_ventricle_tissue_male_child_3_years.promoters.bed']
+heart_left_ventricle_tissue_female_adult_53_years.promoters
+None
+chr16	10002	10003	0
+
+0
+Intersection saved as heart_left_ventricle_tissue_female_adult_53_years.promoters
+One missing file: heart_left_ventricle_tissue_male_adult_34_years.promoters.bed
+One missing file: heart_left_ventricle_tissue_male_child_3_years.promoters.bed
+heart_right_ventricle_tissue_female_adult_46_years.promoters
+None
+chr16	10002	10003	0	0
+
+1
+Intersection saved as heart_right_ventricle_tissue_female_adult_46_years.promoters
+One missing file: heart_right_ventricle_tissue_male_adult_34_years.promoters.bed
+heart_right_ventricle_tissue_male_adult_40_years.promoters
+None
+chr16	10002	10003	0	0	0
+
+2
+Intersection saved as heart_right_ventricle_tissue_male_adult_40_years.promoters
+One missing file: heart_right_ventricle_tissue_male_child_3_years.promoters.bed
+Starting ind is: 3
+['heart_left_ventricle_tissue_female_adult_46_years.enhancers.bed', 'heart_left_ventricle_tissue_female_adult_51_years.enhancers.bed', 'heart_left_ventricle_tissue_male_adult_34_years.enhancers.bed', 'heart_left_ventricle_tissue_male_adult_40_years.enhancers.bed', 'heart_left_ventricle_tissue_male_child_3_years.enhancers.bed', 'heart_right_ventricle_tissue_female_adult_46_years.enhancers.bed', 'heart_right_ventricle_tissue_male_adult_34_years.enhancers.bed', 'heart_right_ventricle_tissue_male_adult_40_years.enhancers.bed', 'heart_right_ventricle_tissue_male_child_3_years.enhancers.bed']
+heart_left_ventricle_tissue_female_adult_46_years.enhancers
+None
+chr16	10002	10003	0	0	0	0
+
+3
+Intersection saved as heart_left_ventricle_tissue_female_adult_46_years.enhancers
+One missing file: heart_left_ventricle_tissue_female_adult_51_years.enhancers.bed
+One missing file: heart_left_ventricle_tissue_male_adult_34_years.enhancers.bed
+heart_left_ventricle_tissue_male_adult_40_years.enhancers
+None
+chr16	10002	10003	0	0	0	0	0
+
+4
+Intersection saved as heart_left_ventricle_tissue_male_adult_40_years.enhancers
+One missing file: heart_left_ventricle_tissue_male_child_3_years.enhancers.bed
+heart_right_ventricle_tissue_female_adult_46_years.enhancers
+None
+chr16	10002	10003	0	0	0	0	0	0
+
+5
+Intersection saved as heart_right_ventricle_tissue_female_adult_46_years.enhancers
+One missing file: heart_right_ventricle_tissue_male_adult_34_years.enhancers.bed
+heart_right_ventricle_tissue_male_adult_40_years.enhancers
+None
+chr16	10002	10003	0	0	0	0	0	0	0
+
+6
+Intersection saved as heart_right_ventricle_tissue_male_adult_40_years.enhancers
+One missing file: heart_right_ventricle_tissue_male_child_3_years.enhancers.bed
+Starting ind is: 7
+['cardiac fibroblast female embryo 94 days and female embryo 98 days.txt', 'heart left ventricle tissue female embryo 101 days and female embryo 103 days.txt', 'heart left ventricle tissue female embryo 136 days.txt', 'heart right ventricle tissue female embryo 101 days and female embryo 103 days.txt', 'heart tissue embryo 101 days.txt', 'heart tissue embryo 59 days and female embryo 76 days.txt', 'heart tissue embryo 80 days.txt', 'heart tissue embryo 96 days.txt', 'heart tissue female embryo 103 days.txt', 'heart tissue female embryo 105 days.txt', 'heart tissue female embryo 110 days.txt', 'heart tissue female embryo 116 days and female embryo 98 days.txt', 'heart tissue female embryo 117 days.txt', 'heart tissue female embryo 147 days.txt', 'heart tissue female embryo 91 days.txt', 'heart tissue male embryo 105 days.txt', 'heart tissue male embryo 110 days.txt', 'heart tissue male embryo 120 days.txt', 'heart tissue male embryo 72 days and male embryo 76 days.txt', 'heart tissue male embryo 91 days.txt', 'heart tissue male embryo 96 days.txt', 'left cardiac atrium tissue female embryo 101 days.txt']
+cardiac fibroblast female embryo 94 days and female embryo 98 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0
+
+7
+Intersection saved as cardiac fibroblast female embryo 94 days and female embryo 98 days
+heart left ventricle tissue female embryo 101 days and female embryo 103 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0
+
+8
+Intersection saved as heart left ventricle tissue female embryo 101 days and female embryo 103 days
+heart left ventricle tissue female embryo 136 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0
+
+9
+Intersection saved as heart left ventricle tissue female embryo 136 days
+heart right ventricle tissue female embryo 101 days and female embryo 103 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0
+
+10
+Intersection saved as heart right ventricle tissue female embryo 101 days and female embryo 103 days
+heart tissue embryo 101 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0
+
+11
+Intersection saved as heart tissue embryo 101 days
+heart tissue embryo 59 days and female embryo 76 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+12
+Intersection saved as heart tissue embryo 59 days and female embryo 76 days
+heart tissue embryo 80 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+13
+Intersection saved as heart tissue embryo 80 days
+heart tissue embryo 96 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+14
+Intersection saved as heart tissue embryo 96 days
+heart tissue female embryo 103 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+15
+Intersection saved as heart tissue female embryo 103 days
+heart tissue female embryo 105 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+16
+Intersection saved as heart tissue female embryo 105 days
+heart tissue female embryo 110 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+17
+Intersection saved as heart tissue female embryo 110 days
+heart tissue female embryo 116 days and female embryo 98 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+18
+Intersection saved as heart tissue female embryo 116 days and female embryo 98 days
+heart tissue female embryo 117 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+19
+Intersection saved as heart tissue female embryo 117 days
+heart tissue female embryo 147 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+20
+Intersection saved as heart tissue female embryo 147 days
+heart tissue female embryo 91 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+21
+Intersection saved as heart tissue female embryo 91 days
+heart tissue male embryo 105 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+22
+Intersection saved as heart tissue male embryo 105 days
+heart tissue male embryo 110 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+23
+Intersection saved as heart tissue male embryo 110 days
+heart tissue male embryo 120 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+24
+Intersection saved as heart tissue male embryo 120 days
+heart tissue male embryo 72 days and male embryo 76 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+25
+Intersection saved as heart tissue male embryo 72 days and male embryo 76 days
+heart tissue male embryo 91 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+26
+Intersection saved as heart tissue male embryo 91 days
+heart tissue male embryo 96 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+27
+Intersection saved as heart tissue male embryo 96 days
+left cardiac atrium tissue female embryo 101 days
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+28
+Intersection saved as left cardiac atrium tissue female embryo 101 days
+Starting ind is: 29
+['heart_left_ventricle_tissue_female_adult_46_years.CTCF-bound cCREs.bed', 'heart_left_ventricle_tissue_female_adult_51_years.CTCF-bound cCREs.bed', 'heart_left_ventricle_tissue_female_adult_53_years.CTCF-bound cCREs.bed', 'heart_left_ventricle_tissue_female_adult_59_years.CTCF-bound cCREs.bed', 'heart_left_ventricle_tissue_male_adult_40_years.CTCF-bound cCREs.bed']
+heart_left_ventricle_tissue_female_adult_46_years.CTCF-bound cCREs
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+29
+Intersection saved as heart_left_ventricle_tissue_female_adult_46_years.CTCF-bound cCREs
+heart_left_ventricle_tissue_female_adult_51_years.CTCF-bound cCREs
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+30
+Intersection saved as heart_left_ventricle_tissue_female_adult_51_years.CTCF-bound cCREs
+heart_left_ventricle_tissue_female_adult_53_years.CTCF-bound cCREs
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+31
+Intersection saved as heart_left_ventricle_tissue_female_adult_53_years.CTCF-bound cCREs
+heart_left_ventricle_tissue_female_adult_59_years.CTCF-bound cCREs
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+32
+Intersection saved as heart_left_ventricle_tissue_female_adult_59_years.CTCF-bound cCREs
+heart_left_ventricle_tissue_male_adult_40_years.CTCF-bound cCREs
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+33
+Intersection saved as heart_left_ventricle_tissue_male_adult_40_years.CTCF-bound cCREs
+Starting ind is: 34
+7 9 5
+bed_starting_ind: 34
+['C57BL-6_heart_tissue_embryo_10.5_days clean.promoters.bed', 'C57BL-6_heart_tissue_male_adult_8_weeks clean.promoters.bed', 'C57BL-6_heart_tissue_postnatal_0_days clean.promoters.bed']
+C57BL-6_heart_tissue_embryo_10.5_days clean.promoters
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+34
+Intersection saved as C57BL-6_heart_tissue_embryo_10.5_days clean.promoters
+C57BL-6_heart_tissue_male_adult_8_weeks clean.promoters
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+35
+Intersection saved as C57BL-6_heart_tissue_male_adult_8_weeks clean.promoters
+C57BL-6_heart_tissue_postnatal_0_days clean.promoters
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+36
+Intersection saved as C57BL-6_heart_tissue_postnatal_0_days clean.promoters
+Starting ind is: 37
+['C57BL-6_heart_tissue_embryo_10.5_days clean.enhancers.bed', 'C57BL-6_heart_tissue_male_adult_8_weeks clean.enhancers.bed', 'C57BL-6_heart_tissue_postnatal_0_days clean.enhancers.bed']
+C57BL-6_heart_tissue_embryo_10.5_days clean.enhancers
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+37
+Intersection saved as C57BL-6_heart_tissue_embryo_10.5_days clean.enhancers
+C57BL-6_heart_tissue_male_adult_8_weeks clean.enhancers
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+38
+Intersection saved as C57BL-6_heart_tissue_male_adult_8_weeks clean.enhancers
+C57BL-6_heart_tissue_postnatal_0_days clean.enhancers
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+39
+Intersection saved as C57BL-6_heart_tissue_postnatal_0_days clean.enhancers
+Starting ind is: 40
+['C57BL-6_heart_tissue_male_adult_8_weeks clean.CTCF-bound cCREs.bed', 'C57BL-6_heart_tissue_postnatal_0_days clean.CTCF-bound cCREs.bed']
+C57BL-6_heart_tissue_male_adult_8_weeks clean.CTCF-bound cCREs
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+40
+Intersection saved as C57BL-6_heart_tissue_male_adult_8_weeks clean.CTCF-bound cCREs
+C57BL-6_heart_tissue_postnatal_0_days clean.CTCF-bound cCREs
+None
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+41
+Intersection saved as C57BL-6_heart_tissue_postnatal_0_days clean.CTCF-bound cCREs
+Starting ind is: 42
+3 3 2
+bed_starting_ind: 42
+TFBS
+76 ['ASCL1_pwmscan_hg38_29347_22951.bed', 'CREB1_pwmscan_hg38_7806_15552.bed', 'EOMES_pwmscan_hg38_45327_5339.bed', 'FOXC1_pwmscan_hg38_14051_14776.bed', 'FOXC2_pwmscan_hg38_30036_45203.bed', 'FOXF1_pwmscan_hg38_28598_34204.bed', 'FOXH1_pwmscan_hg38_43315_3114.bed', 'FOXL1_pwmscan_hg38_43316_13581.bed', 'GATA3_pwmscan_hg38_11738_12391.bed', 'GATA4_pwmscan_hg38_28596_35342.bed', 'GATA5_pwmscan_hg38_9066_18689.bed', 'GATA6_pwmscan_hg38_20055_21663.bed', 'GLI1_pwmscan_hg38_33818_38538.bed', 'GLI2_pwmscan_hg38_7492_29088.bed', 'GLI3_pwmscan_hg38_35563_38491.bed', 'GRHL2_pwmscan_hg38_29347_19788.bed', 'HAND1_pwmscan_hg38_38445_41025.bed', 'HES1_pwmscan_hg38_35815_41265.bed', 'HEY1_pwmscan_hg38_28887_46496.bed', 'HEY2_pwmscan_hg38_43317_44258.bed', 'HIF1A_pwmscan_hg38_15529_13200.bed', 'ISL1_pwmscan_hg38_35815_41742.bed', 'JUN_pwmscan_hg38_38048_1878.bed', 'LBX1_pwmscan_hg38_27664_45938.bed', 'MEF2A_pwmscan_hg38_7806_11341.bed', 'MEF2C_pwmscan_hg38_43317_529.bed', 'MEF2D_pwmscan_hg38_11121_17332.bed', 'MEIS1_pwmscan_hg38_27664_48032.bed', 'MESP1_pwmscan_hg38_38445_42157.bed', 'MIXL1_pwmscan_hg38_27664_42167.bed', 'MSX1_pwmscan_hg38_37655_41051.bed', 'NFAC4_pwmscan_hg38_33560_42902.bed', 'NFATC1_pwmscan_hg38_31217_44715.bed', 'NKX25_pwmscan_hg38_39533_43866.bed', 'NKX3_1_pwmscan_hg38_43163_4491.bed', 'NOTO_pwmscan_hg38_28887_33633.bed', 'OVOL2_pwmscan_hg38_39701_44177.bed', 'PAX8_pwmscan_hg38_44374_46322.bed', 'PITX2_pwmscan_hg38_41734_46461.bed', 'POU4F1_pwmscan_hg38_11435_12160.bed', 'POU4F1_pwmscan_hg38_47659_38526.bed', 'PPARD_pwmscan_hg38_35563_48082.bed', 'PPARG_pwmscan_hg38_27664_10529.bed', 'PRD14_pwmscan_hg38_48118_48439.bed', 'PRDM1_pwmscan_hg38_38048_46851.bed', 'PROX1_pwmscan_hg38_33324_13670.bed', 'RARA_pwmscan_hg38_47659_33241.bed', 'RARB_pwmscan_hg38_48313_3308.bed', 'RBPJ_pwmscan_hg38_10402_12301.bed', 'REST_pwmscan_hg38_11121_3574.bed', 'SHOX2_pwmscan_hg38_44375_4511.bed', 'SIX1_pwmscan_hg38_42746_19293.bed', 'SMAD1_pwmscan_hg38_44445_5787.bed', 'SMAD3_pwmscan_hg38_47659_6575.bed', 'SMAD4_pwmscan_hg38_44288_6824.bed', 'SNAI1_pwmscan_hg38_46684_9294.bed', 'SNAI2_pwmscan_hg38_27665_28556.bed', 'SOX11_pwmscan_hg38_43996_10436.bed', 'SOX17_pwmscan_hg38_9606_11798.bed', 'SOX18_pwmscan_hg38_9606_12295.bed', 'SOX4_pwmscan_hg38_20348_27236.bed', 'SOX9_pwmscan_hg38_11121_9563.bed', 'SRF_pwmscan_hg38_27664_8726.bed', 'TBX1_pwmscan_hg38_38292_542.bed', 'TBX20_pwmscan_hg38_30239_36307.bed', 'TBX2_pwmscan_hg38_30239_37929.bed', 'TBX3_pwmscan_hg38_48118_14186.bed', 'TBX5_pwmscan_hg38_47636_48695.bed', 'TEAD2_pwmscan_hg38_6370_18229.bed', 'TP53_pwmscan_hg38_20055_27716.bed', 'TP53_pwmscan_hg38_4482_5454.bed', 'TWIST1_pwmscan_hg38_38398_47795.bed', 'WT1_pwmscan_hg38_43996_14775.bed', 'YY1_pwmscan_hg38_43315_7423.bed', 'ZBT14_pwmscan_hg38_43996_16382.bed', 'ZIC3_pwmscan_hg38_33324_35656.bed']
+ASCL1_pwmscan_hg38_29347_22951
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ASCL1_pwmscan_hg38_29347_22951
+CREB1_pwmscan_hg38_7806_15552
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as CREB1_pwmscan_hg38_7806_15552
+EOMES_pwmscan_hg38_45327_5339
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as EOMES_pwmscan_hg38_45327_5339
+FOXC1_pwmscan_hg38_14051_14776
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as FOXC1_pwmscan_hg38_14051_14776
+FOXC2_pwmscan_hg38_30036_45203
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as FOXC2_pwmscan_hg38_30036_45203
+FOXF1_pwmscan_hg38_28598_34204
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as FOXF1_pwmscan_hg38_28598_34204
+FOXH1_pwmscan_hg38_43315_3114
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as FOXH1_pwmscan_hg38_43315_3114
+FOXL1_pwmscan_hg38_43316_13581
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as FOXL1_pwmscan_hg38_43316_13581
+GATA3_pwmscan_hg38_11738_12391
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GATA3_pwmscan_hg38_11738_12391
+GATA4_pwmscan_hg38_28596_35342
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GATA4_pwmscan_hg38_28596_35342
+GATA5_pwmscan_hg38_9066_18689
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GATA5_pwmscan_hg38_9066_18689
+GATA6_pwmscan_hg38_20055_21663
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GATA6_pwmscan_hg38_20055_21663
+GLI1_pwmscan_hg38_33818_38538
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GLI1_pwmscan_hg38_33818_38538
+GLI2_pwmscan_hg38_7492_29088
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GLI2_pwmscan_hg38_7492_29088
+GLI3_pwmscan_hg38_35563_38491
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GLI3_pwmscan_hg38_35563_38491
+GRHL2_pwmscan_hg38_29347_19788
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as GRHL2_pwmscan_hg38_29347_19788
+HAND1_pwmscan_hg38_38445_41025
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as HAND1_pwmscan_hg38_38445_41025
+HES1_pwmscan_hg38_35815_41265
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as HES1_pwmscan_hg38_35815_41265
+HEY1_pwmscan_hg38_28887_46496
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as HEY1_pwmscan_hg38_28887_46496
+HEY2_pwmscan_hg38_43317_44258
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as HEY2_pwmscan_hg38_43317_44258
+HIF1A_pwmscan_hg38_15529_13200
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as HIF1A_pwmscan_hg38_15529_13200
+ISL1_pwmscan_hg38_35815_41742
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ISL1_pwmscan_hg38_35815_41742
+JUN_pwmscan_hg38_38048_1878
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as JUN_pwmscan_hg38_38048_1878
+LBX1_pwmscan_hg38_27664_45938
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as LBX1_pwmscan_hg38_27664_45938
+MEF2A_pwmscan_hg38_7806_11341
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as MEF2A_pwmscan_hg38_7806_11341
+MEF2C_pwmscan_hg38_43317_529
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as MEF2C_pwmscan_hg38_43317_529
+MEF2D_pwmscan_hg38_11121_17332
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as MEF2D_pwmscan_hg38_11121_17332
+MEIS1_pwmscan_hg38_27664_48032
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as MEIS1_pwmscan_hg38_27664_48032
+MESP1_pwmscan_hg38_38445_42157
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as MESP1_pwmscan_hg38_38445_42157
+MIXL1_pwmscan_hg38_27664_42167
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as MIXL1_pwmscan_hg38_27664_42167
+MSX1_pwmscan_hg38_37655_41051
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as MSX1_pwmscan_hg38_37655_41051
+NFAC4_pwmscan_hg38_33560_42902
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as NFAC4_pwmscan_hg38_33560_42902
+NFATC1_pwmscan_hg38_31217_44715
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as NFATC1_pwmscan_hg38_31217_44715
+NKX25_pwmscan_hg38_39533_43866
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as NKX25_pwmscan_hg38_39533_43866
+NKX3_1_pwmscan_hg38_43163_4491
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as NKX3_1_pwmscan_hg38_43163_4491
+NOTO_pwmscan_hg38_28887_33633
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as NOTO_pwmscan_hg38_28887_33633
+OVOL2_pwmscan_hg38_39701_44177
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as OVOL2_pwmscan_hg38_39701_44177
+PAX8_pwmscan_hg38_44374_46322
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as PAX8_pwmscan_hg38_44374_46322
+PITX2_pwmscan_hg38_41734_46461
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as PITX2_pwmscan_hg38_41734_46461
+POU4F1_pwmscan_hg38_11435_12160
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as POU4F1_pwmscan_hg38_11435_12160
+POU4F1_pwmscan_hg38_47659_38526
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as POU4F1_pwmscan_hg38_47659_38526
+PPARD_pwmscan_hg38_35563_48082
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as PPARD_pwmscan_hg38_35563_48082
+PPARG_pwmscan_hg38_27664_10529
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as PPARG_pwmscan_hg38_27664_10529
+PRD14_pwmscan_hg38_48118_48439
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as PRD14_pwmscan_hg38_48118_48439
+PRDM1_pwmscan_hg38_38048_46851
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as PRDM1_pwmscan_hg38_38048_46851
+PROX1_pwmscan_hg38_33324_13670
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as PROX1_pwmscan_hg38_33324_13670
+RARA_pwmscan_hg38_47659_33241
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as RARA_pwmscan_hg38_47659_33241
+RARB_pwmscan_hg38_48313_3308
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as RARB_pwmscan_hg38_48313_3308
+RBPJ_pwmscan_hg38_10402_12301
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as RBPJ_pwmscan_hg38_10402_12301
+REST_pwmscan_hg38_11121_3574
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as REST_pwmscan_hg38_11121_3574
+SHOX2_pwmscan_hg38_44375_4511
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SHOX2_pwmscan_hg38_44375_4511
+SIX1_pwmscan_hg38_42746_19293
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SIX1_pwmscan_hg38_42746_19293
+SMAD1_pwmscan_hg38_44445_5787
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SMAD1_pwmscan_hg38_44445_5787
+SMAD3_pwmscan_hg38_47659_6575
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SMAD3_pwmscan_hg38_47659_6575
+SMAD4_pwmscan_hg38_44288_6824
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SMAD4_pwmscan_hg38_44288_6824
+SNAI1_pwmscan_hg38_46684_9294
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SNAI1_pwmscan_hg38_46684_9294
+SNAI2_pwmscan_hg38_27665_28556
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SNAI2_pwmscan_hg38_27665_28556
+SOX11_pwmscan_hg38_43996_10436
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SOX11_pwmscan_hg38_43996_10436
+SOX17_pwmscan_hg38_9606_11798
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SOX17_pwmscan_hg38_9606_11798
+SOX18_pwmscan_hg38_9606_12295
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SOX18_pwmscan_hg38_9606_12295
+SOX4_pwmscan_hg38_20348_27236
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SOX4_pwmscan_hg38_20348_27236
+SOX9_pwmscan_hg38_11121_9563
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SOX9_pwmscan_hg38_11121_9563
+SRF_pwmscan_hg38_27664_8726
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as SRF_pwmscan_hg38_27664_8726
+TBX1_pwmscan_hg38_38292_542
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TBX1_pwmscan_hg38_38292_542
+TBX20_pwmscan_hg38_30239_36307
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TBX20_pwmscan_hg38_30239_36307
+TBX2_pwmscan_hg38_30239_37929
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TBX2_pwmscan_hg38_30239_37929
+TBX3_pwmscan_hg38_48118_14186
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TBX3_pwmscan_hg38_48118_14186
+TBX5_pwmscan_hg38_47636_48695
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TBX5_pwmscan_hg38_47636_48695
+TEAD2_pwmscan_hg38_6370_18229
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TEAD2_pwmscan_hg38_6370_18229
+TP53_pwmscan_hg38_20055_27716
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TP53_pwmscan_hg38_20055_27716
+TP53_pwmscan_hg38_4482_5454
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TP53_pwmscan_hg38_4482_5454
+TWIST1_pwmscan_hg38_38398_47795
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as TWIST1_pwmscan_hg38_38398_47795
+WT1_pwmscan_hg38_43996_14775
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as WT1_pwmscan_hg38_43996_14775
+YY1_pwmscan_hg38_43315_7423
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as YY1_pwmscan_hg38_43315_7423
+ZBT14_pwmscan_hg38_43996_16382
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ZBT14_pwmscan_hg38_43996_16382
+ZIC3_pwmscan_hg38_33324_35656
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ZIC3_pwmscan_hg38_33324_35656
+bed_starting_ind_tfbs: 118
+VISTA
+1 ['vista_hg38.bed']
+vista_hg38
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as vista_hg38
+bed_starting_ind_vista: 119
+CVDKP
+30 ['DFF012AGB.bed', 'DFF017NNG.bed', 'DFF029APW.bed', 'DFF090AWG.bed', 'DFF165PSK.bed', 'DFF201AVG.bed', 'DFF208QZK.bed', 'DFF233YXQ.bed', 'DFF249RGM.bed', 'DFF262NPA.bed', 'DFF307JWU.bed', 'DFF307LLE.bed', 'DFF316NIT.bed', 'DFF367ZAV.bed', 'DFF371HWB.bed', 'DFF444FXW.bed', 'DFF491GMJ.bed', 'DFF512TCX.bed', 'DFF528FIC.bed', 'DFF552AGR.bed', 'DFF559UZT.bed', 'DFF564GOU.bed', 'DFF565QGM.bed', 'DFF621YNV.bed', 'DFF653TBJ.bed', 'DFF729PKJ.bed', 'DFF803PYP.bed', 'DFF842KEC.bed', 'DFF923IAT.bed', 'DFF975AHB.bed']
+DFF012AGB
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF012AGB
+DFF017NNG
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF017NNG
+DFF029APW
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF029APW
+DFF090AWG
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF090AWG
+DFF165PSK
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF165PSK
+DFF201AVG
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF201AVG
+DFF208QZK
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF208QZK
+DFF233YXQ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF233YXQ
+DFF249RGM
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF249RGM
+DFF262NPA
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF262NPA
+DFF307JWU
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF307JWU
+DFF307LLE
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF307LLE
+DFF316NIT
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF316NIT
+DFF367ZAV
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF367ZAV
+DFF371HWB
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF371HWB
+DFF444FXW
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF444FXW
+DFF491GMJ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF491GMJ
+DFF512TCX
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF512TCX
+DFF528FIC
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF528FIC
+DFF552AGR
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF552AGR
+DFF559UZT
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF559UZT
+DFF564GOU
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF564GOU
+DFF565QGM
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF565QGM
+DFF621YNV
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF621YNV
+DFF653TBJ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF653TBJ
+DFF729PKJ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF729PKJ
+DFF803PYP
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF803PYP
+DFF842KEC
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF842KEC
+DFF923IAT
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF923IAT
+DFF975AHB
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as DFF975AHB
+bed_starting_ind_cvdkp: 149
+ATAC
+38 ['ENCFF024FSS.bed', 'ENCFF055YGM.bed', 'ENCFF072LFQ.bed', 'ENCFF124JSN.bed', 'ENCFF174HPZ.bed', 'ENCFF179JFB.bed', 'ENCFF199VHV.bed', 'ENCFF237JBZ.bed', 'ENCFF239PZJ.bed', 'ENCFF251ADS.bed', 'ENCFF257UAY.bed', 'ENCFF258HEB.bed', 'ENCFF291YRH.bed', 'ENCFF303AKJ.bed', 'ENCFF315UYG.bed', 'ENCFF372VNL.bed', 'ENCFF525ZRG.bed', 'ENCFF529QEX.bed', 'ENCFF556YGF.bed', 'ENCFF560EBG.bed', 'ENCFF567VUC.bed', 'ENCFF643QLU.bed', 'ENCFF718BTP.bed', 'ENCFF720GJU.bed', 'ENCFF731JBR.bed', 'ENCFF783MYY.bed', 'ENCFF792EIF.bed', 'ENCFF811VNG.bed', 'ENCFF820DKN.bed', 'ENCFF830CEC.bed', 'ENCFF890NRK.bed', 'ENCFF898WYV.bed', 'ENCFF901EKY.bed', 'ENCFF953FJE.bed', 'ENCFF968YWL.bed', 'ENCFF984UBD.bed', 'ENCFF988KSK.bed', 'ENCFF991MKU.bed']
+ENCFF024FSS
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF024FSS
+ENCFF055YGM
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF055YGM
+ENCFF072LFQ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF072LFQ
+ENCFF124JSN
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF124JSN
+ENCFF174HPZ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF174HPZ
+ENCFF179JFB
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF179JFB
+ENCFF199VHV
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF199VHV
+ENCFF237JBZ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF237JBZ
+ENCFF239PZJ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF239PZJ
+ENCFF251ADS
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF251ADS
+ENCFF257UAY
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+
+Intersection saved as ENCFF257UAY
+ENCFF258HEB
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+
+Intersection saved as ENCFF258HEB
+ENCFF291YRH
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+
+Intersection saved as ENCFF291YRH
+ENCFF303AKJ
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+
+Intersection saved as ENCFF303AKJ
+ENCFF315UYG
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+
+Intersection saved as ENCFF315UYG
+ENCFF372VNL
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+
+Intersection saved as ENCFF372VNL
+ENCFF525ZRG
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+
+Intersection saved as ENCFF525ZRG
+ENCFF529QEX
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3
+
+Intersection saved as ENCFF529QEX
+ENCFF556YGF
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0
+
+Intersection saved as ENCFF556YGF
+ENCFF560EBG
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0
+
+Intersection saved as ENCFF560EBG
+ENCFF567VUC
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2
+
+Intersection saved as ENCFF567VUC
+ENCFF643QLU
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0
+
+Intersection saved as ENCFF643QLU
+ENCFF718BTP
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3
+
+Intersection saved as ENCFF718BTP
+ENCFF720GJU
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0
+
+Intersection saved as ENCFF720GJU
+ENCFF731JBR
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0
+
+Intersection saved as ENCFF731JBR
+ENCFF783MYY
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0
+
+Intersection saved as ENCFF783MYY
+ENCFF792EIF
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0
+
+Intersection saved as ENCFF792EIF
+ENCFF811VNG
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0
+
+Intersection saved as ENCFF811VNG
+ENCFF820DKN
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0
+
+Intersection saved as ENCFF820DKN
+ENCFF830CEC
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF830CEC
+ENCFF890NRK
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF890NRK
+ENCFF898WYV
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF898WYV
+ENCFF901EKY
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF901EKY
+ENCFF953FJE
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF953FJE
+ENCFF968YWL
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF968YWL
+ENCFF984UBD
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF984UBD
+ENCFF988KSK
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF988KSK
+ENCFF991MKU
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as ENCFF991MKU
+bed_starting_ind_atac: 187
+HIC AND PCHIC
+2 ['CM_Merged_DI_TADs.bed', 'CP_Merged_DI_TADs.bed']
+CM_Merged_DI_TADs
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+Intersection saved as CM_Merged_DI_TADs
+CP_Merged_DI_TADs
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+
+Intersection saved as CP_Merged_DI_TADs
+1 ['PCHiC_interaction_points_sorte_uniq_grch38.txt']
+PCHiC_interaction_points_sorte_uniq_grch38
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+
+Intersection saved as PCHiC_interaction_points_sorte_uniq_grch38
+bed_starting_ind_pchic: 190
+FETAL
+1 ['unlifted_enhancers.txt']
+unlifted_enhancers
+chr16	10002	10003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+
+Intersection saved as unlifted_enhancers
+bed_starting_ind_fetal: 191

@@ -1,0 +1,12 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - catboost
+  - lightgbm
+  - seaborn

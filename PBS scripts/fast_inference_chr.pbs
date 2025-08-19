@@ -1,0 +1,159 @@
+#!/bin/bash
+
+##########################
+#                        #
+#   The PBS directives   #
+#                        #
+##########################
+
+# Define the shell in which your jobs should run. Shouldn't really be changed
+# unless you have a very specific reason for doing so
+#PBS -S /bin/bash
+
+
+# Define the name for the job
+#PBS -N chr20
+
+
+
+# Defining the wall time for the job
+#PBS -l walltime=40:00:00
+
+
+
+#PBS -o /group/tran3/duytran/ngocduy.tran/Python scripts/
+
+
+
+
+# Selecting which queue to send the job to
+#PBS -q batch
+
+
+
+
+
+# Defining the amount of memory you require
+#PBS -l mem=368GB
+
+
+
+
+# Define the email address to be used in correspondence
+#PBS -M ngocduy.tran@mcri.edu.au
+
+
+# Define the number of nodes and cores you require
+#PBS -l nodes=1:ppn=10
+
+
+
+# Used to define which project job is associated with
+#PBS -A tran3
+
+
+### END OF PBS OPTIONS
+
+
+
+##########################################
+#                                        #
+#   Output some useful job information.  #
+#                                        #
+##########################################
+
+#echo ------------------------------------------------------
+#echo -n 'Job is running on node '; cat $PBS_NODEFILE
+#echo ------------------------------------------------------
+#echo PBS: qsub was run on $PBS_O_HOST
+#echo PBS: originating queue is $PBS_O_QUEUE
+#echo PBS: executing queue is $PBS_QUEUE
+#echo PBS: working directory is $PBS_O_WORKDIR
+#echo PBS: execution mode is $PBS_ENVIRONMENT
+#echo PBS: job identifier is $PBS_JOBID
+#echo PBS: job name is $PBS_JOBNAME
+#echo PBS: node file is $PBS_NODEFILE
+#echo PBS: current home directory is $PBS_O_HOME
+#echo PBS: temporary directory on node is $TMPDIR
+#echo PBS: PATH = $PBS_O_PATH
+#echo ------------------------------------------------------
+
+
+#>>>>>>>>>> Steps to excecute your job goes here <<<<<<<<<<<<<<<<<<<<<
+
+# 2 things to modify: pbs file and -p only. Also make folder for chromosome in validation merging test folder
+
+# Change to the temporary folder cretated for this job on the comp node
+cd /group/tran3/duytran/ngocduy.tran/Python\ scripts/bedtools_merging/Validation
+conda activate base
+module load bedtools 
+
+# # Download the required files to the folder
+
+#     # Download homo-sapiens data
+# wget https://ftp.ensembl.org/pub/release-110/variation/vcf/homo_sapiens/homo_sapiens-chr20.vcf.gz
+# gunzip homo_sapiens-chr20.vcf.gz
+#     # Download ncer and lift ncer scores
+#         # Download the ncer scores
+# cd ~
+# cd /group/tran3/duytran/ngocduy.tran/Python\ scripts/continuous_merging
+# wget https://telentilab-dataset.s3.amazonaws.com/ncER/v2/Bin_1bp/ncER_perc_chr20_coordSorted.txt.gz
+# gunzip ncER_perc_chr20_coordSorted.txt.gz
+# mv ncER_perc_chr20_coordSorted.txt /group/tran3/duytran/ngocduy.tran/lift
+#         # liftover ncer
+# cd ~
+# cd /group/tran3/duytran/ngocduy.tran/lift
+# chmod +x liftOver
+# ./liftOver ncER_perc_chr20_coordSorted.txt hg19ToHg38.over.chain.gz ncer_transformed_chr20.bed unMapped
+# mv ncer_transformed_chr20.bed /group/tran3/duytran/ngocduy.tran/Python\ scripts/continuous_merging
+#     # Download dickel dataset, already done
+
+
+# # merge with bedtools for categorical and continuous variables
+#     # categorical variables
+#     # once finished running, output_even and output_odd located at /bedtools_merging/Validation merging test/chr20/
+#     # desired file: should be output_even.txt
+
+
+
+# cd ~
+# cd /group/tran3/duytran/ngocduy.tran/Python\ scripts/bedtools_merging
+# python mcri_merging_categorical.py -c chr20 -p 57268986 > logging/chr20_print_logging.txt 
+
+#     # continuous variables
+#         # copy the validation file: validation_chr20.txt (simple version) to continuous_merging 
+#         # problem here unable to cp
+# cp Validation/validation_chr20.txt ../continuous_merging
+#         # bedtools intersect with ncer scores
+# cd ~
+# cd /group/tran3/duytran/ngocduy.tran/Python\ scripts/continuous_merging
+# bedtools intersect -loj -a validation_chr20.txt -b ncer_transformed_chr20.bed > chr20_ncer.txt
+# cd ..
+# python drop_dups_continuous.py -c chr20 > logging/chr20_ncer_dups.txt
+# cd continuous_merging
+
+#         # bedtools intersect with dickel scores
+# bedtools intersect -loj -a validation_chr20.txt -b unfiltered_hg38.bed > dickel_chr20.txt
+
+#     # merge continuous with categorical
+#         # cut the columns from dickel and ncer to merge with the merged categorical and continuous version, which is output_even.txt
+# cd ~
+# cd /group/tran3/duytran/ngocduy.tran/Python\ scripts/bedtools_merging/Validation\ merging\ test
+# # # problem here
+# cp chr20/output_even.txt ../../continuous_merging/
+# cd ../../continuous_merging
+# mv output_even.txt chr20_categorical.txt
+# paste -d"\t" chr20_categorical.txt <(cut -f7 chr20_ncer_drop_dups.txt) > chr20_cat_ncer.txt
+# paste -d"\t" chr20_cat_ncer.txt <(cut -f7 dickel_chr20.txt) > chr20_final_ncer_dickel.txt
+# mv chr20_final_ncer_dickel.txt ../chromosome_data/chr20_final_ncer_dickel.txt
+# # cd ..
+
+# # run the actual inference to the applied dataset
+cd /group/tran3/duytran/ngocduy.tran/Python\ scripts/
+python fast_inference_others.py -c chr20 -f human_encode -p 1306044 42780500 > logging/inference_logging_chr20_human_encode.txt
+# 31176664 + 1: chromosome12
+
+
+#echo ------------------------------------------------------
+
+exit

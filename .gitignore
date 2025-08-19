@@ -1,0 +1,118 @@
+continuous_merging/validation_chr7.txt
+continuous_merging/ncer_transformed_chr21.bed
+continuous_merging/dickel_chr12.txt
+continuous_merging/chr20_cat_ncer.txt
+continuous_merging/chr16_ncer_drop_dups.txt
+continuous_merging/chr12_categorical.txt
+continuous_merging/ncer_transformed_chr12.bed
+continuous_merging/chr12_ncer_drop_dups.txt
+continuous_merging/chr7_ncer.txt
+continuous_merging/ncer_transformed_chr19.bed
+continuous_merging/chr7_ncer_drop_dups.txt
+continuous_merging/ncer_transformed_chr14.bed
+continuous_merging/chr20_categorical.txt
+continuous_merging/validation_chr12.txt
+continuous_merging/ncer_transformed_chr16.bed
+continuous_merging/ncer_transformed_chr10.bed
+continuous_merging/validation_chr15.txt
+continuous_merging/ncer_transformed_chr1.bed
+continuous_merging/chr15_ncer.txt
+continuous_merging/ncer_transformed_chr15.bed
+continuous_merging/chr7_cat_ncer.txt
+continuous_merging/ncer_transformed_chr13.bed
+continuous_merging/chr16_categorical.txt
+continuous_merging/dickel_chr16.txt
+continuous_merging/validation_chr20.txt
+continuous_merging/dickel_chr1.txt
+continuous_merging/chr20_ncer.txt
+continuous_merging/ncer_transformed_chr7.bed
+continuous_merging/ncer_transformed_chr22.bed
+continuous_merging/validation_chr16.txt
+continuous_merging/chr15_categorical.txt
+continuous_merging/ncer_transformed_chr11.bed
+continuous_merging/chr12_cat_ncer.txt
+continuous_merging/ensembl_variants_raw_regions_ncer.txt
+continuous_merging/ncer_transformed_chr20.bed
+continuous_merging/ncer_transformed_all_chr.bed
+continuous_merging/chr15_cat_ncer.txt
+continuous_merging/ncer_transformed_chr17.bed
+continuous_merging/ncer_transformed_chr18.bed
+continuous_merging/ncer_transformed_chr5.bed
+continuous_merging/ncer_transformed_chr4.bed
+continuous_merging/ncer_transformed_chr9.bed
+continuous_merging/dickel_chr7.txt
+continuous_merging/validation_chr1.txt
+continuous_merging/chr1_ncer.txt
+continuous_merging/ncer_transformed_chrX.bed
+continuous_merging/ncer_transformed_chr8.bed
+continuous_merging/chr16_cat_ncer.txt
+continuous_merging/chr12_ncer.txt
+continuous_merging/ncer_transformed_chr3.bed
+continuous_merging/chr15_ncer_drop_dups.txt
+continuous_merging/dickel_chr20.txt
+continuous_merging/dickel_chr15.txt
+continuous_merging/ncer_transformed_chr2.bed
+continuous_merging/chr16_ncer.txt
+continuous_merging/chr7_categorical.txt
+continuous_merging/ncer_transformed_chr6.bed
+chromosome_data/chr7_final_ncer_dickel.txt
+chromosome_data/chr20_final_ncer_dickel.txt
+chromosome_data/vcf_chr20.txt
+chromosome_data/chr15_final_ncer_dickel.txt
+chromosome_data/chr16_final_ncer_dickel.txt
+chromosome_data/chr12_final_ncer_dickel.txt
+predictions/proba_predictions/chr15_scores.txt
+predictions/proba_predictions/chr16_scores.txt
+predictions/proba_predictions/(wrong)chr20_scores_human_encode.txt
+predictions/proba_predictions/chr15_scores_human_encode_others.txt
+predictions/proba_predictions/chr16_scores_human_encode_others.txt
+model_weights/ensemble.pkl
+
+
+
+# Ignore all files in BED files subfolders
+bedtools_merging/BED files/ATAC/*
+bedtools_merging/BED files/CVDKP/*
+bedtools_merging/BED files/Dickel/*
+bedtools_merging/BED files/Hi-C/*
+bedtools_merging/BED files/Human/*
+bedtools_merging/BED files/Mouse/*
+bedtools_merging/BED files/PCHiC/*
+bedtools_merging/BED files/TFBS/*
+bedtools_merging/BED files/Vista_human_heart_enhancers/*
+bedtools_merging/BED files/Zebrafish/*
+
+# But do not ignore .gitkeep files (so folders stay tracked)
+!bedtools_merging/BED files/*/.gitkeep
+
+
+
+bedtools_merging/Validation merging test/chr15/output_odd.txt
+bedtools_merging/Validation merging test/chr15/output_even.txt
+bedtools_merging/Validation merging test/chr12/output_odd.txt
+bedtools_merging/Validation merging test/chr12/output_even.txt
+bedtools_merging/Validation merging test/chr20/output_odd.txt
+bedtools_merging/Validation merging test/chr20/output_even.txt
+bedtools_merging/Validation merging test/chr7/output_odd.txt
+bedtools_merging/Validation merging test/chr7/output_even.txt
+bedtools_merging/Validation merging test/chr16/output_odd.txt
+bedtools_merging/Validation merging test/chr16/output_even.txt
+bedtools_merging/Validation/validation_chr7.txt
+bedtools_merging/Validation/homo_sapiens-chr8.vcf
+bedtools_merging/Validation/homo_sapiens-chr15.vcf.gz.2
+bedtools_merging/Validation/homo_sapiens-chr20.vcf
+bedtools_merging/Validation/homo_sapiens-chr7.vcf
+bedtools_merging/Validation/homo_sapiens-chr7.vcf.gz.1
+bedtools_merging/Validation/validation_chr12.txt
+bedtools_merging/Validation/homo_sapiens-chr15.vcf.gz.1
+bedtools_merging/Validation/validation_chr15.txt
+bedtools_merging/Validation/homo_sapiens-chr16.vcf.gz
+bedtools_merging/Validation/homo_sapiens-chr16.vcf
+bedtools_merging/Validation/homo_sapiens-chr15.vcf.gz
+bedtools_merging/Validation/validation_chr20.txt
+bedtools_merging/Validation/validation_chr16.txt
+bedtools_merging/Validation/validation_chr8.txt
+bedtools_merging/Validation/homo_sapiens-chr7.vcf.gz
+bedtools_merging/Validation/homo_sapiens-chr12.vcf
+bedtools_merging/Validation/homo_sapiens-chr15.vcf
+bedtools_merging/Validation/homo_sapiens-chr16.vcf.gz.1
