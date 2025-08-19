@@ -1,3 +1,3 @@
 # CaraVaN
 
-CaraVaN (Cardiac variants in Non-coding Genome) is a machine learning-based method to score potentially pathogenic single nucleotide variants in the non-coding genome pertaining to heart disease including congenital heart disease (CHD). We use  
+CaraVaN (Cardiac variants in Non-coding Genome) is a machine learning-based method to score potentially pathogenic single nucleotide variants in the non-coding genome pertaining to heart disease including congenital heart disease (CHD). We use ensemble approach (Catboost, Light gradient-boosting and Logistic regression) to score genome-wide probability scores for cardiac pathogenicity (where 0 is non-pathogenic and 1 is pathogenic).
