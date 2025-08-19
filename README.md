@@ -10,7 +10,7 @@ CaraVaN (Cardiac Variants in Non-coding Genome) is a machine learning-based meth
 Languages: Python 3.4, Linux 
 
 ## Downloading the cardiac-specific non-coding genome features
-The features used in the model can be downloaded from this [link].(https://bridges.monash.edu/projects/CaraVaN_datasets/118794)
+The features used in the model can be downloaded from this [link](https://bridges.monash.edu/projects/CaraVaN_datasets/118794).
 
 
 
