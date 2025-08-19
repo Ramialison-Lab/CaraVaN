@@ -116,3 +116,10 @@ bedtools_merging/Validation/homo_sapiens-chr7.vcf.gz
 bedtools_merging/Validation/homo_sapiens-chr12.vcf
 bedtools_merging/Validation/homo_sapiens-chr15.vcf
 bedtools_merging/Validation/homo_sapiens-chr16.vcf.gz.1
+
+
+logging/inference_others_logging_chr7.txt
+logging/chr7_inference_during_running_human_encode.txt
+
+
+predictions/
